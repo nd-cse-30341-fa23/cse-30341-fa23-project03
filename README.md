@@ -87,7 +87,7 @@ brainstorming questions are not required.
 
 ## Demonstration
 
-> Link to **video demonstration** of **chat application**.
+> Link to **video demonstration**.
 
 ## Errata
 
